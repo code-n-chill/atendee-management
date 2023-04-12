@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/atendee-management/static/css/main.339fef3b.css",
-    "main.js": "/atendee-management/static/js/main.2b62b68e.js",
+    "main.js": "/atendee-management/static/js/main.73abc1eb.js",
     "static/js/787.9359c5c3.chunk.js": "/atendee-management/static/js/787.9359c5c3.chunk.js",
     "index.html": "/atendee-management/index.html",
     "main.339fef3b.css.map": "/atendee-management/static/css/main.339fef3b.css.map",
-    "main.2b62b68e.js.map": "/atendee-management/static/js/main.2b62b68e.js.map",
+    "main.73abc1eb.js.map": "/atendee-management/static/js/main.73abc1eb.js.map",
     "787.9359c5c3.chunk.js.map": "/atendee-management/static/js/787.9359c5c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.339fef3b.css",
-    "static/js/main.2b62b68e.js"
+    "static/js/main.73abc1eb.js"
   ]
 }
