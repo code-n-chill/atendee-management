@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/atendee-management/static/css/main.2a3414fa.css",
+    "main.css": "/atendee-management/static/css/main.c12a91a1.css",
     "main.js": "/atendee-management/static/js/main.d821ad03.js",
     "static/js/787.9359c5c3.chunk.js": "/atendee-management/static/js/787.9359c5c3.chunk.js",
     "static/media/genAILogo.png": "/atendee-management/static/media/genAILogo.7a7430536c11e1e30276.png",
     "index.html": "/atendee-management/index.html",
-    "main.2a3414fa.css.map": "/atendee-management/static/css/main.2a3414fa.css.map",
+    "main.c12a91a1.css.map": "/atendee-management/static/css/main.c12a91a1.css.map",
     "main.d821ad03.js.map": "/atendee-management/static/js/main.d821ad03.js.map",
     "787.9359c5c3.chunk.js.map": "/atendee-management/static/js/787.9359c5c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a3414fa.css",
+    "static/css/main.c12a91a1.css",
     "static/js/main.d821ad03.js"
   ]
 }
